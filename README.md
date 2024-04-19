@@ -24,4 +24,4 @@ https://www.figma.com/file/JnqXynRlOQVjWTj8RPReYn/Untitled?type=design&node-id=0
 
 ### Proposed Diagram:
 
-![Diagram](https://github.com/s-sukriti/TheTechies/blob/main/images/ambulance.png)
+![Diagram](https://github.com/s-sukriti/TheTechies/blob/main/images/Ambulance.jpg)
