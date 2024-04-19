@@ -17,4 +17,4 @@ Overall, our solution is poised to revolutionize urban transportation systems by
 
 ### Proposed Diagram:
 
-![Diagram](https://github.com/s-sukriti/TheTechies/main/images/diagram.png)
+![Diagram](https://github.com/s-sukriti/TheTechies/blob/main/images/diagram.png)
