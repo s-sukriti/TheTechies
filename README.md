@@ -14,3 +14,7 @@ Our proposed solution employs a sophisticated camera-based traffic detection sys
 In addition to its proactive traffic management capabilities, the system boasts an innovative feature geared towards emergency vehicle prioritization. Upon detecting the presence of an emergency vehicle, such as an ambulance with activated sirens and lights, the system swiftly responds by granting priority passage. This is achieved by promptly switching the traffic signal to green for the emergency vehicle's direction while halting opposing traffic with a red signal. This rapid intervention not only expedites the emergency vehicle's journey but also ensures the safety of both the vehicle and its occupants.
 Overall, our solution is poised to revolutionize urban transportation systems by enhancing efficiency, safety, and responsiveness.
 
+
+### Proposed Diagram:
+
+![Diagram](https://github.com/s-sukriti/TheTechies/main/images/diagram.png)
