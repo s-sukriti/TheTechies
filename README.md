@@ -22,6 +22,10 @@ Overall, our solution aims to optimize traffic control for emergency vehicles, m
 ### Prototype: 
 https://www.figma.com/file/JnqXynRlOQVjWTj8RPReYn/Untitled?type=design&node-id=0-1&mode=design&t=ZnrW1wtJGFfzXeJd-0
 
+### Implementation:
+## Simulation:
+Tech Stack: Simulating the working through Unity, using C#
+
 ### Proposed Diagram:
 
 ![Diagram](https://github.com/s-sukriti/TheTechies/blob/main/images/Ambulance.jpg)
