@@ -16,4 +16,4 @@ Overall, our solution is poised to revolutionize urban transportation systems by
 Prototype: https://www.figma.com/file/JnqXynRlOQVjWTj8RPReYn/Untitled?type=design&node-id=0-1&mode=design&t=ZnrW1wtJGFfzXeJd-0
 ### Proposed Diagram:
 
-![Diagram](https://github.com/s-sukriti/TheTechies/blob/main/images/diagram.png)
+![Diagram](https://github.com/s-sukriti/TheTechies/blob/main/images/ambulance.png)
