@@ -1,4 +1,4 @@
-# TheTechies- Traffic Control System
+# TheTechies- Emergency Vehicle Traffic Control System
 
 ### Problem Statement: 
 Optimizing Traffic Control for Emergency Vehicles:  This project aims to develop a traffic management system that prioritizes the passage of emergency vehicles through intersections. By implementing Google Maps API to detect traffic congestion and an app for engaging the traffic clearing system, the system will dynamically adjust traffic signals to provide immediate green signal to approaching emergency vehicles while halting opposing traffic. The objective is to minimize response times for emergency services, enhance road safety, and potentially save lives by streamlining the flow of traffic specifically for emergency vehicles.
