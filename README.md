@@ -6,11 +6,15 @@ Optimizing Traffic Control for Emergency Vehicles:  This project aims to develop
 ### Significance of the problem:
 The problem statement focuses on preventing emergency vehicles having to slow down or stop in traffic. By prioritizing the passage of emergency vehicles through intersections, this project addresses a critical need in modern planning and emergency response systems. By streamlining traffic flow specifically for emergency vehicles, this project has the potential to save lives and significantly improve the effectiveness of emergency response efforts in urban areas.
 
+### Proof of Concept:
+https://drive.google.com/file/d/1lyyFly5uF7OjvEw6H4K729PLEshnMsg2/view?usp=sharing
+
 ### Solution:
 
 
 
-### Prototype: https://www.figma.com/file/JnqXynRlOQVjWTj8RPReYn/Untitled?type=design&node-id=0-1&mode=design&t=ZnrW1wtJGFfzXeJd-0
+### Prototype: 
+https://www.figma.com/file/JnqXynRlOQVjWTj8RPReYn/Untitled?type=design&node-id=0-1&mode=design&t=ZnrW1wtJGFfzXeJd-0
 
 ### Proposed Diagram:
 
