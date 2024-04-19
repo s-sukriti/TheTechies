@@ -1,6 +1,6 @@
 # TheTechies- Traffic Control System
 
-A Reinfornced Learning Task
+A Reinforced Learning Task
 
 ### Problem Statement: 
 Optimal Vehicular Traffic Control: Reinforcement learning is revolutionizing traffic light control systems by continuously learning from real-time traffic patterns. This adaptive approach allows the system to dynamically adjust signal timings based on current traffic conditions, leading to more efficient traffic flow and reduced congestion. Optimization through RL improves commute times and also enhances overall road safety.
