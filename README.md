@@ -1,15 +1,10 @@
 # TheTechies- Traffic Control System
 
-A Reinforced Learning Task
-
 ### Problem Statement: 
-Optimal Vehicular Traffic Control: Reinforcement learning is revolutionizing traffic light control systems by continuously learning from real-time traffic patterns. This adaptive approach allows the system to dynamically adjust signal timings based on current traffic conditions, leading to more efficient traffic flow and reduced congestion. Optimization through RL improves commute times and also enhances overall road safety.
-
-POC
+Optimizing Traffic Control for Emergency Vehicles:  This project aims to develop a traffic management system that prioritizes the passage of emergency vehicles through intersections. By implementing Google Maps API to detect traffic congestion and an app for engaging the traffic clearing system, the system will dynamically adjust traffic signals to provide immediate green signal to approaching emergency vehicles while halting opposing traffic. The objective is to minimize response times for emergency services, enhance road safety, and potentially save lives by streamlining the flow of traffic specifically for emergency vehicles.
 
 ### Significance of the problem:
-The problem statement focuses on optimizing traffic signals through camera-based detection, prioritizing emergency vehicles. It addresses critical urban issues by alleviating congestion, ensuring timely emergency response, enhancing road safety, improving urban mobility, and fostering technological innovation. By dynamically adjusting signals based on real-time traffic conditions and giving priority to emergency vehicles, this problem statement aims to create more efficient, safer, and livable cities through innovative transportation management solutions.
-
+The problem statement focuses on preventing emergency vehicles having to slow down or stop in traffic. By prioritizing the passage of emergency vehicles through intersections, this project addresses a critical need in modern planning and emergency response systems. By streamlining traffic flow specifically for emergency vehicles, this project has the potential to save lives and significantly improve the effectiveness of emergency response efforts in urban areas.
 
 ### Solution:
 Our proposed solution employs a sophisticated camera-based traffic detection system, strategically positioned at key intersections, to provide real-time insights into traffic dynamics. Leveraging advanced image processing algorithms, the system meticulously analyzes incoming video feeds to discern congestion levels and vehicle movements accurately. By continuously monitoring traffic conditions, the system dynamically adjusts traffic signals to optimize flow and mitigate congestion.
