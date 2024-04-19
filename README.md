@@ -10,7 +10,13 @@ The problem statement focuses on preventing emergency vehicles having to slow do
 https://drive.google.com/file/d/1lyyFly5uF7OjvEw6H4K729PLEshnMsg2/view?usp=sharing
 
 ### Solution:
+Our proposed solution involves the development of a simple but efficient traffic management system tailored specifically for prioritizing the passage of emergency vehicles through intersections. 
 
+- *Integration with Google Maps API*: Integrating the Google Maps API to obtain real-time traffic data and identify congestion points. This will enable the system to accurately detect areas where traffic is there and will aloow clearing of the traffic before the emergency vehicle even reaches the intersection
+- *Development of a User-Friendly App*: Designing and developing an intuitive app that allows emergency responders to engage with the traffic clearing system. Through the app the first responders will put the location for pickup of patient and when confirmed the Traffic clearing system will activate allowing free passage
+- *Dynamic Traffic Signal Adjustment*: The system will detect all traffic signals onroute to the emergency situation and then clear up the traffic when the vehicle reaches a certain distance away from the signal. By doing this the traffic will be cleared by the time the vehicle reaches the intersection allowing quick passage.
+
+Overall, our solution aims to optimize traffic control for emergency vehicles, minimize response times, enhance road safety, and ultimately save lives by efficiently managing traffic flow through intersections in cities.
 
 
 ### Prototype: 
