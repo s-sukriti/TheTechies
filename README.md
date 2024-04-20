@@ -23,8 +23,12 @@ Overall, our solution aims to optimize traffic control for emergency vehicles, m
 https://www.figma.com/file/JnqXynRlOQVjWTj8RPReYn/Untitled?type=design&node-id=0-1&mode=design&t=ZnrW1wtJGFfzXeJd-0
 
 ### Implementation:
+
+## Concept: 
+The proposed methodology was to ensure that when an emergency vehicles approaches the traffic signal, it should by default go into the free left turn lane (aka left lane) so that the emergency vehicle can get out of that traffic and then go whichever direction it was already heading. In this concept all the 4 sides of traffic with have a free left always on so as to empty out the traffic efficiently. This method can be used by the emergency vehicles to cut through that traffic stop (incase it is a red light) and reach the destination safe and as quickly as possible. This doesnt mean the emergency vehicle has to take a left turn using this free left turn lane, but to be able to just get out of that traffic stop and then go towards whatever direction it has to go.
+
 ## Simulation:
-Tech Stack: Simulating the working through Unity, using C#
+Tech Stack: Simulating the working through Pygame, Python
 
 ### Proposed Diagram:
 
