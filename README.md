@@ -33,3 +33,7 @@ Tech Stack: Simulating the working through Pygame, Python
 ### Proposed Diagram:
 
 ![Diagram](https://github.com/s-sukriti/TheTechies/blob/main/images/Ambulance.jpg)
+
+### Output
+
+![Diagram](https://github.com/s-sukriti/TheTechies/blob/main/images/Simulation_demo.jpg)
