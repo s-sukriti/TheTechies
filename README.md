@@ -37,3 +37,7 @@ Tech Stack: Simulating the working through Pygame, Python
 ### Output
 
 ![Diagram](https://github.com/s-sukriti/TheTechies/blob/main/images/Simulation_demo.jpg)
+
+### Simulation
+
+Link - https://drive.google.com/file/d/1WmgE2krdv2RT3w1JHurGiVEeWIOMYA-3/view?usp=sharing
